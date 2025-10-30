@@ -94,8 +94,7 @@ Expanded area of ownership and full responsibility for release quality.
 **22.05.2022 – 22.08.2022**  
 [https://prog.academy/qa](https://prog.academy/qa)
 
-**Aleph1.io – Kyiv / Wellington — Practical QA Experience**  
-**22.07.2022 – Present**
+
 
 ---
 
