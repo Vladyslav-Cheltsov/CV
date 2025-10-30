@@ -54,9 +54,7 @@ My first job as a manual tester was under the supervision of a Lead QA Engineer.
 - Creating test reports and decompositions  
 - API testing using Postman  
 
----
 
-#### *Junior Level Quality Assurance Engineer*  
 **22.03.2023 – 22.06.2023**  
 Worked independently as the sole QA Engineer on a new project.  
 
